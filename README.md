@@ -19,6 +19,15 @@
 
 ---
 
+## Conquistas Microsoft Learn 🏅
+
+[![Criar e implantar aplicativos no Azure com o GitHub Actions](https://learn.microsoft.com/api/achievements/share/pt-br/PedroLoureno-4442/3A2XGMZH?sharingId=91EB2BA5CB292BB6)
+
+[![Crie fluxos de trabalho de CI com GitHub Actions](https://learn.microsoft.com/api/achievements/share/pt-br/PedroLoureno-4442/3AZUJRCH?sharingId=91EB2BA5CB292BB6)
+
+[![Automatizar tarefas de desenvolvimento com GitHub Actions](https://learn.microsoft.com/api/achievements/share/pt-br/PedroLoureno-4442/E5GYLKGP?sharingId=91EB2BA5CB292BB6)
+
+
 ### 🌐 Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-louren%C3%A7o-pierani-a268b626a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
