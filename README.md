@@ -27,6 +27,8 @@
 
 [Automatizar tarefas de desenvolvimento com GitHub Actions](https://learn.microsoft.com/api/achievements/share/pt-br/PedroLoureno-4442/E5GYLKGP?sharingId=91EB2BA5CB292BB6)
 
+[Automatizar o GitHub usando o GitHub Script](https://learn.microsoft.com/api/achievements/share/pt-br/PedroLoureno-4442/3A2YXCEH?sharingId=91EB2BA5CB292BB6)
+
 
 ### 🌐 Redes Sociais:
 
